@@ -8,4 +8,4 @@
 
 ## Featured Projects 💻
 
-to be continued
+- Advent of Code 2025
