@@ -9,4 +9,4 @@
 ## Featured Projects 💻
 
 - Advent of Code 2025
-- Replications of Scientific Papers
+- Replications of Scientific Papers (among else, engaging with the synthetic control method and enriched with resampling and linear model selection techniques) 
